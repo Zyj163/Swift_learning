@@ -5,9 +5,12 @@ www
 <<<<<<< Updated upstream
 www
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 www
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 222
@@ -26,6 +29,9 @@ www
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
